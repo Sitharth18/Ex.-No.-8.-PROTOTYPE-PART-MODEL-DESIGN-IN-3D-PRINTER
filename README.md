@@ -45,7 +45,8 @@
 ###   6.	Close the doors of the 3d printer.
 ###   7.	Open the file from the USB storage and select the Print option.
 
-## Output:![Screenshot 2024-12-19 110923](https://github.com/user-attachments/assets/b1fbbfc7-39b0-46df-96fd-243133ec9460)
+## Output:
+![Screenshot 2024-12-19 110923](https://github.com/user-attachments/assets/b1fbbfc7-39b0-46df-96fd-243133ec9460)
 
 ### Name:SITHARTH.B.S
 ### Register Number:24900657
